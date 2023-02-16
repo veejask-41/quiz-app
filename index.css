@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+html{
+    margin: 0;
+    height: 100%;
+    font-family: 'Karla', sans-serif;
+    /* overflow: hidden; */
+    /* background-color: #F5F7FB; */
+
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    font-family: 'Karla', sans-serif;
+    /* overflow: scroll; */
+    /* background-color: #F5F7FB; */
+
+}
+
+#root {
+    height: 100%;
+    /* display: inline; */
+    /* padding-top: 20px; */
+}
+

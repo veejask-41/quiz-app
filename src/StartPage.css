@@ -1,0 +1,44 @@
+.start-page {
+    width: 100%;
+    height: 100%;
+    background-color: #F5F7FB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.start-title {
+    margin: 0;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #293264;
+}
+
+.start-description {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 24px;
+    color: #293264;
+}
+
+.start-btn {
+    padding: 16px 30px;
+    background-color: #4D5B9E;
+    border: none;
+    border-radius: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #F5F7FB;
+    cursor: pointer;
+}
+
+.start-btn:active {
+    box-shadow: inset 0 0 5px black;
+}
